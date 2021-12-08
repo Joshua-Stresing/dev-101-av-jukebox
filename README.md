@@ -34,6 +34,8 @@ Free Sound
 - [Adobe Stock Sound](https://stock.adobe.com/)
 - 3 free, then paid: [Epidemic Sound](https://www.epidemicsound.com/)
 
+Box Shadows
+- [Examples](https://getcssscan.com/css-box-shadow-examples)
 
 ### CSS Grid
 

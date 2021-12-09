@@ -1,7 +1,7 @@
-Greeting Card Builder
+A/V Jukebox
 ===
 
-Build and deploy and greeting card maker
+Build and deploy a Jukebox list of images and sounds
 
 ## Resources
 
